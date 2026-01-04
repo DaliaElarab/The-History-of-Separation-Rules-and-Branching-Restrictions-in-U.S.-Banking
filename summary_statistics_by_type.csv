@@ -1,0 +1,151 @@
+State,Deregulation Type,Deregulation Year,Avg. Deposit (Before),Avg. Deposit (After),% Increase
+Alaska,Intrastate M&A,1960,57800.0,236200.0,308.65%
+Alaska,Intrastate De Novo,1960,57800.0,236200.0,308.65%
+Alaska,Interstate BHC,1982,1666704.8,2356500.0,41.39%
+Arizona,Intrastate M&A,1960,939000.0,1600800.0,70.48%
+Arizona,Intrastate De Novo,1960,939000.0,1600800.0,70.48%
+Arizona,Interstate BHC,1986,14910448.43,18100779.5,21.4%
+Arkansas,Interstate BHC,1989,10988698.0,11454393.9,4.24%
+Arkansas,Intrastate M&A,1994,11454393.9,13445742.1,17.39%
+Arkansas,Intrastate De Novo,1999,13445742.1,12948965.62,-3.69%
+California,Intrastate M&A,1960,21220800.0,29017200.0,36.74%
+California,Intrastate De Novo,1960,21220800.0,29017200.0,36.74%
+California,Interstate BHC,1987,220736997.12,251977025.5,14.15%
+Colorado,Interstate BHC,1988,16125874.78,15305009.5,-5.09%
+Colorado,Intrastate M&A,1991,15664272.5,15787859.4,0.79%
+Colorado,Intrastate De Novo,1997,16294745.8,17338598.6,6.41%
+Connecticut,Intrastate M&A,1980,8971631.8,15840116.17,76.56%
+Connecticut,Interstate BHC,1983,11389757.6,24885105.67,118.49%
+Connecticut,Intrastate De Novo,1988,24885105.67,33150462.6,33.21%
+Delaware,Intrastate M&A,1960,630800.0,781400.0,23.87%
+Delaware,Intrastate De Novo,1960,630800.0,781400.0,23.87%
+Delaware,Interstate BHC,1988,8310406.67,17016211.1,104.76%
+District of Columbia,Intrastate M&A,1960,N/A,N/A,N/A
+District of Columbia,Intrastate De Novo,1960,N/A,N/A,N/A
+District of Columbia,Interstate BHC,1985,N/A,N/A,N/A
+Florida,Interstate BHC,1985,53085393.83,77917224.3,46.78%
+Florida,Intrastate M&A,1988,69800824.89,80933469.1,15.95%
+Florida,Intrastate De Novo,1988,69800824.89,80933469.1,15.95%
+Georgia,Intrastate M&A,1983,19394547.2,24956175.0,28.68%
+Georgia,Interstate BHC,1985,22025568.83,27869631.2,26.53%
+Georgia,Intrastate De Novo,1998,39381386.8,46339784.8,17.67%
+Hawaii,Intrastate M&A,1986,5706504.57,8504780.3,49.04%
+Hawaii,Intrastate De Novo,1986,5706504.57,8504780.3,49.04%
+Hawaii,Interstate BHC,1995,10290382.8,10152085.7,-1.34%
+Idaho,Intrastate M&A,1960,591000.0,727000.0,23.01%
+Idaho,Intrastate De Novo,1960,591000.0,727000.0,23.01%
+Idaho,Interstate BHC,1985,4264384.67,3492857.6,-18.09%
+Illinois,Interstate BHC,1986,103861998.0,98725303.4,-4.95%
+Illinois,Intrastate M&A,1988,96725397.22,99166292.2,2.52%
+Illinois,Intrastate De Novo,1993,99166292.2,105648609.8,6.54%
+Indiana,Interstate BHC,1986,26794420.43,27875504.9,4.03%
+Indiana,Intrastate M&A,1989,25803123.1,29820932.1,15.57%
+Indiana,Intrastate De Novo,1991,27875504.9,30726021.7,10.23%
+Iowa,Interstate BHC,1991,17077332.0,17956310.6,5.15%
+Iowa,Intrastate M&A,1997,18408499.7,19762800.6,7.36%
+Iowa,Intrastate De Novo,2002,19762800.6,22230666.0,12.49%
+Kansas,Intrastate M&A,1987,16067778.88,17394585.2,8.26%
+Kansas,Intrastate De Novo,1990,17220002.0,16282386.7,-5.44%
+Kansas,Interstate BHC,1992,17394585.2,15960576.2,-8.24%
+Kentucky,Interstate BHC,1984,17748093.2,16349673.7,-7.88%
+Kentucky,Intrastate M&A,1990,17290325.7,20490279.3,18.51%
+Kentucky,Intrastate De Novo,2001,21199244.9,21833077.5,2.99%
+Louisiana,Interstate BHC,1987,23169828.38,20706274.6,-10.63%
+Louisiana,Intrastate M&A,1988,22558196.44,20170286.6,-10.59%
+Louisiana,Intrastate De Novo,1988,22558196.44,20170286.6,-10.59%
+Maine,Intrastate M&A,1975,1555734.0,2373217.4,52.55%
+Maine,Intrastate De Novo,1975,1555734.0,2373217.4,52.55%
+Maine,Interstate BHC,1978,2019088.4,2890166.8,43.14%
+Maryland,Intrastate M&A,1960,2102200.0,2732800.0,30.0%
+Maryland,Intrastate De Novo,1960,2102200.0,2732800.0,30.0%
+Maryland,Interstate BHC,1985,15543354.5,25268988.1,62.57%
+Massachusetts,Interstate BHC,1983,27379326.8,46450128.78,69.65%
+Massachusetts,Intrastate M&A,1984,30715824.2,51468927.8,67.56%
+Massachusetts,Intrastate De Novo,1984,30715824.2,51468927.8,67.56%
+Michigan,Interstate BHC,1986,43198766.29,45908073.5,6.27%
+Michigan,Intrastate M&A,1987,42741716.75,47064994.4,10.11%
+Michigan,Intrastate De Novo,1988,42465662.22,48103256.8,13.28%
+Minnesota,Interstate BHC,1986,26977807.86,25800640.0,-4.36%
+Minnesota,Intrastate M&A,1993,25511949.3,31471840.5,23.36%
+Minnesota,Intrastate De Novo,2002,51596086.5,41993109.0,-18.61%
+Mississippi,Intrastate M&A,1986,9941111.57,10196525.2,2.57%
+Mississippi,Interstate BHC,1988,9621402.44,10625597.2,10.44%
+Mississippi,Intrastate De Novo,1989,9502174.6,10782321.1,13.47%
+Missouri,Interstate BHC,1986,30142806.14,32514461.7,7.87%
+Missouri,Intrastate M&A,1990,31466011.3,34157017.8,8.55%
+Missouri,Intrastate De Novo,1990,31466011.3,34157017.8,8.55%
+Montana,Intrastate M&A,1990,3571149.6,3856292.4,7.98%
+Montana,Interstate BHC,1993,3690570.7,4130918.6,11.93%
+Montana,Intrastate De Novo,1997,4039514.6,4872446.7,20.62%
+Nebraska,Intrastate M&A,1985,10421870.0,10684542.4,2.52%
+Nebraska,Interstate BHC,1990,10684542.4,12277740.0,14.91%
+Nebraska,Intrastate De Novo,2002,15885443.2,16878761.0,6.25%
+Nevada,Intrastate M&A,1960,343600.0,555600.0,61.7%
+Nevada,Intrastate De Novo,1960,343600.0,555600.0,61.7%
+Nevada,Interstate BHC,1985,3609187.67,4616655.7,27.91%
+New Hampshire,Intrastate M&A,1987,5200450.38,8242485.3,58.5%
+New Hampshire,Interstate BHC,1987,5200450.38,8242485.3,58.5%
+New Hampshire,Intrastate De Novo,1987,5200450.38,8242485.3,58.5%
+New Jersey,Intrastate M&A,1977,21156397.8,28856155.4,36.39%
+New Jersey,Interstate BHC,1986,42785833.29,59891797.9,39.98%
+New Jersey,Intrastate De Novo,1996,59244538.9,52703317.4,-11.04%
+New Mexico,Interstate BHC,1989,6296886.5,5860624.0,-6.93%
+New Mexico,Intrastate M&A,1991,6199214.7,6067958.1,-2.12%
+New Mexico,Intrastate De Novo,1991,6199214.7,6067958.1,-2.12%
+New York,Intrastate M&A,1976,114881345.2,242283908.4,110.9%
+New York,Interstate BHC,1982,287476105.6,301774612.5,4.97%
+New York,Intrastate De Novo,2002,407323806.8,478797680.5,17.55%
+North Carolina,Intrastate M&A,1960,2553800.0,3395800.0,32.97%
+North Carolina,Intrastate De Novo,1960,2553800.0,3395800.0,32.97%
+North Carolina,Interstate BHC,1985,23134374.33,30468096.0,31.7%
+North Dakota,Intrastate M&A,1987,4485746.25,4828628.5,7.64%
+North Dakota,Interstate BHC,1991,4563998.7,6080565.0,33.23%
+North Dakota,Intrastate De Novo,1996,6080565.0,5093264.0,-16.24%
+Ohio,Intrastate M&A,1979,34094913.6,46516653.0,36.43%
+Ohio,Interstate BHC,1985,47854985.83,58555192.2,22.36%
+Ohio,Intrastate De Novo,1989,55416984.8,63810737.5,15.15%
+Oklahoma,Interstate BHC,1987,19586734.38,15015787.3,-23.34%
+Oklahoma,Intrastate M&A,1988,18194519.0,14863024.5,-18.31%
+Oklahoma,Intrastate De Novo,2000,16597558.1,18727300.67,12.83%
+Oregon,Intrastate M&A,1985,10910012.33,10927944.7,0.16%
+Oregon,Intrastate De Novo,1985,10910012.33,10927944.7,0.16%
+Oregon,Interstate BHC,1986,10736400.14,11247698.2,4.76%
+Pennsylvania,Intrastate M&A,1982,65495742.0,75981981.62,16.01%
+Pennsylvania,Interstate BHC,1986,74959593.86,84794459.3,13.12%
+Pennsylvania,Intrastate De Novo,1989,78079894.6,86378723.7,10.63%
+Rhode Island,Intrastate M&A,1960,815400.0,979800.0,20.16%
+Rhode Island,Intrastate De Novo,1960,815400.0,979800.0,20.16%
+Rhode Island,Interstate BHC,1984,6011336.6,6821777.8,13.48%
+South Carolina,Intrastate M&A,1960,906800.0,1172200.0,29.27%
+South Carolina,Intrastate De Novo,1960,906800.0,1172200.0,29.27%
+South Carolina,Interstate BHC,1986,8941146.57,12185328.9,36.28%
+South Dakota,Intrastate M&A,1960,651600.0,869000.0,33.36%
+South Dakota,Intrastate De Novo,1960,651600.0,869000.0,33.36%
+South Dakota,Interstate BHC,1988,5120348.22,5745108.6,12.2%
+Tennessee,Intrastate M&A,1985,20873121.5,21646751.6,3.71%
+Tennessee,Interstate BHC,1985,20873121.5,21646751.6,3.71%
+Tennessee,Intrastate De Novo,1990,21646751.6,25600440.1,18.26%
+Texas,Interstate BHC,1987,123103248.0,102607745.6,-16.65%
+Texas,Intrastate M&A,1988,121163094.89,97117184.9,-19.85%
+Texas,Intrastate De Novo,1988,121163094.89,97117184.9,-19.85%
+Utah,Intrastate M&A,1981,4845451.0,6497467.71,34.09%
+Utah,Intrastate De Novo,1981,4845451.0,6497467.71,34.09%
+Utah,Interstate BHC,1984,6272913.4,6549842.6,4.41%
+Vermont,Intrastate M&A,1970,673571.8,1089104.2,61.69%
+Vermont,Intrastate De Novo,1970,673571.8,1089104.2,61.69%
+Vermont,Interstate BHC,1988,2639235.44,3451689.8,30.78%
+Virginia,Intrastate M&A,1978,14063794.8,20706694.8,47.23%
+Virginia,Interstate BHC,1985,23426289.67,32020382.8,36.69%
+Virginia,Intrastate De Novo,1986,24689393.86,34254476.5,38.74%
+Washington,Intrastate M&A,1985,19900095.83,21899890.0,10.05%
+Washington,Intrastate De Novo,1985,19900095.83,21899890.0,10.05%
+Washington,Interstate BHC,1987,20109988.0,24404903.3,21.36%
+West Virginia,Intrastate M&A,1987,7801726.38,7979918.6,2.28%
+West Virginia,Intrastate De Novo,1987,7801726.38,7979918.6,2.28%
+West Virginia,Interstate BHC,1988,7487752.33,8229398.9,9.9%
+Wisconsin,Interstate BHC,1987,23535740.12,26293462.5,11.72%
+Wisconsin,Intrastate De Novo,1989,23500944.5,28343814.7,20.61%
+Wisconsin,Intrastate M&A,1990,24400413.8,29328238.4,20.2%
+Wyoming,Interstate BHC,1987,2852798.5,2434658.9,-14.66%
+Wyoming,Intrastate M&A,1988,2683727.56,2451669.6,-8.65%
+Wyoming,Intrastate De Novo,1999,3626589.7,3022926.5,-16.65%
