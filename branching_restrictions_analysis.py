@@ -69,7 +69,7 @@ except Exception as e:
 
 
 # -------------------------------
-# 2. Retrieves historical state-level data from the FDIC public API and run banking analysis
+# 2. Extract historical state-level banking data from the FDIC public API and run banking analysis
 # -------------------------------
 
 def run_banking_analysis():
