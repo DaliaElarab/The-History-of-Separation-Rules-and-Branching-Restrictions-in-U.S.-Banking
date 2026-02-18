@@ -21,7 +21,7 @@ import tabula
 import numpy as np
 
 # -------------------------------
-# 1. Extract deregulation data from PDF (St. Louis Fed)
+# 1. Extract deregulation data from PDF (St. Louis Fed) using OCR
 # -------------------------------
 
 pdf_url = "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/Files/PDFs/publications/pub_assets/pdf/re/2007/b/dereg.pdf"
