@@ -11,7 +11,7 @@
 # Description: This script analyzes the effect of branching restrictions and deregulation
 # on U.S. state-level banking deposits (1934–2002), generating figures and
 # summary statistics for use in empirical research.
-# Note: Part 2 will include separation rules analysis and its impact on bank activities.
+# Note: Part 2 will include separation rules analysis and its impact on bank activities. 
 #---------------------------------------------------------------------------
 
 import pandas as pd
